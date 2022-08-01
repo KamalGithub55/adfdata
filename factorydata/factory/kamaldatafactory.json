@@ -1,0 +1,9 @@
+{
+	"name": "kamaldatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a672c2ab-a65b-4557-b0f3-1f9f614361b0",
+		"tenantId": "4dd7a8d5-3d62-41f5-a61a-ed82c02c94b3"
+	}
+}
