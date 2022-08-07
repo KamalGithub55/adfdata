@@ -8,38 +8,8 @@
 		"AzureBlobStorage1_connectionString": {
 			"value": ""
 		},
-		"AzureBlobStorage2_connectionString": {
-			"value": ""
-		},
-		"AzureBlobStorage3_connectionString": {
-			"value": ""
-		},
 		"AzureBlobStorage4_connectionString": {
 			"value": ""
-		},
-		"AzureMySql1_connectionString": {
-			"value": ""
-		},
-		"AzureSqlDatabase1_connectionString": {
-			"value": ""
-		},
-		"FileServer1_password": {
-			"value": ""
-		},
-		"FileServer2_password": {
-			"value": ""
-		},
-		"FileServer1_properties_typeProperties_host": {
-			"value": "@{linkedService().csvfiles}"
-		},
-		"FileServer1_properties_typeProperties_userId": {
-			"value": "9566166084"
-		},
-		"FileServer2_properties_typeProperties_host": {
-			"value": "https://adfcloud.blob.core.windows.net/input"
-		},
-		"FileServer2_properties_typeProperties_userId": {
-			"value": "9566166084"
 		},
 		"trigger1_properties_typeProperties_scope": {
 			"value": "/subscriptions/b6f6d0ec-b556-4080-bcac-49b0a00e56bf/resourceGroups/adfkamal/providers/Microsoft.Storage/storageAccounts/adfcloud"
