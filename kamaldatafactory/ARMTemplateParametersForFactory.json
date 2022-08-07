@@ -40,6 +40,9 @@
 		},
 		"FileServer2_properties_typeProperties_userId": {
 			"value": "9566166084"
+		},
+		"trigger1_properties_typeProperties_scope": {
+			"value": "/subscriptions/b6f6d0ec-b556-4080-bcac-49b0a00e56bf/resourceGroups/adfkamal/providers/Microsoft.Storage/storageAccounts/adfcloud"
 		}
 	}
 }
